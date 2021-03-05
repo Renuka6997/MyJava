@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;renu.com.package-info.java&apos; to &apos;Renu.java&apos;&#x0D;&#x0A;- Original project: &apos;pluralsight&apos;&#x0D;&#x0A;- Original element: &apos;renu.com.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;renu.com.Renu.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;renu.com{package-info.java" name="Renu.java" references="false" stamp="1604506034162" version="1.0"/>
+</session>

@@ -1,0 +1,18 @@
+package com.capgemini.oops;
+
+public class TestAnimal {
+	public static void main(String[] args) {
+		Animal a = new Animal();
+		a.eat();
+
+		Lion l = new Lion();
+		l.eat();
+		l.hunt();
+		l.roar();
+
+		Dog d = new Dog();
+		d.eat();
+		d.bark();
+		d.bite();
+	}
+}

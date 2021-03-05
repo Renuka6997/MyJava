@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename method &apos;com.capgemini.javabasics.methodoverloading.Calculator.addThreeNumbers(...)&apos; to &apos;addNumbers&apos;&#x0D;&#x0A;- Original project: &apos;javabasics&apos;&#x0D;&#x0A;- Original element: &apos;com.capgemini.javabasics.methodoverloading.Calculator.addThreeNumbers(...)&apos;&#x0D;&#x0A;- Renamed element: &apos;com.capgemini.javabasics.methodoverloading.Calculator.addNumbers(...)&apos;&#x0D;&#x0A;- Update references to refactored element" delegate="false" deprecate="false" description="Rename method &apos;addThreeNumbers&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.method" input="/src&lt;com.capgemini.javabasics.methodoverloading{Calculator.java[Calculator~addThreeNumbers~I~I~I" name="addNumbers" references="true" stamp="1580969042629" version="1.0"/>
+</session>

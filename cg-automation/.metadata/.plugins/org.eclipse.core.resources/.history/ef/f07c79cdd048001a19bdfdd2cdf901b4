@@ -1,0 +1,25 @@
+package com.capgemini.oops;
+
+public class TestC {
+public static void main(String[] args) {
+	Person p =new Person();
+	p.name="Vikram";
+	p.color="white";
+	p.gender='M';
+	p.height=5.8;
+	p.age=23;
+	
+	p.walk();
+	p.sleep();
+	
+	Student s=new Student();
+	s.sid="215";
+	s.collegename="VIIT";
+	s.course="EEE";
+	s.percentage=76;
+	s.backlogs=0;
+	
+	s.study();
+	s.exam();
+}
+}

@@ -1,0 +1,14 @@
+package com.capgemini.oops;
+
+public class TestPhone {
+	public static void main(String[] args) {
+		ThirdGen t = new ThirdGen();
+		t.msg();
+		t.call();
+		t.games();
+		t.torch();
+		t.camera();
+		t.music();
+
+	}
+}

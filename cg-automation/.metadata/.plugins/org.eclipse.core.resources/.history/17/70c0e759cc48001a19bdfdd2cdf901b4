@@ -1,0 +1,18 @@
+package com.capgemini.oops;
+
+public class TestB {
+
+	public static void main(String[] args) {
+		Pen p = new Pen();
+		p.color = "Blue";
+		p.size = 12.7;
+		p.price = 10;
+		System.out.println("color is " + p.color);
+		System.out.println("size is " + p.size);
+		System.out.println("price is " + p.price);
+		p.write();
+		p.play();
+
+	}
+
+}

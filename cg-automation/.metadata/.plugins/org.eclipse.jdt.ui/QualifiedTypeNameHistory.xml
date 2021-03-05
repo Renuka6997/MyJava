@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.capgemini.javabasics.methodoverloading.Calculator"/>
+<fullyQualifiedTypeName name="com.capgemini.constructors.defaultc.Employee1"/>
+<fullyQualifiedTypeName name="com.capgemini.advancedjava.i.Automobile"/>
+<fullyQualifiedTypeName name="com.capgemini.traineesapp.development.React"/>
+<fullyQualifiedTypeName name="com.capgemini.traineesapp.development.Angular"/>
+<fullyQualifiedTypeName name="java.lang.NegativeArraySizeException"/>
+<fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="com.capgemini.exception.first.PayTM"/>
+<fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+<fullyQualifiedTypeName name="java.lang.InterruptedException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="java.lang.RuntimeException"/>
+<fullyQualifiedTypeName name="com.capgemini.exception.uncheckedcustomexception.InvalidAgeException"/>
+<fullyQualifiedTypeName name="com.capgemini.exception.checkedexception.InvalidAmountException"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(Cloneable.class[Cloneable" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.io(Serializable.class[Serializable" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.util(RandomAccess.class[RandomAccess" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.rmi(Remote.class[Remote" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;org.w3c.dom.events(EventListener.class[EventListener" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=advancedjava/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.util(EventListener.class[EventListener" modifiers="1537" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(Number.class[Number" modifiers="1057" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(StringBuffer.class[StringBuffer" modifiers="49" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(StringBuilder.class[StringBuilder" modifiers="49" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(String.class[String" modifiers="49" timestamp="1572963384202"/>
+<typeInfo handle="=objectclass/src&lt;com.capgemini.objectclass{Cow.java[Cow" modifiers="1" timestamp="1581502139840"/>
+<typeInfo handle="=objectclass/src&lt;com.capgemini.objectclass{Animal.java[Animal" modifiers="513" timestamp="1581504215983"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(Class.class[Class" modifiers="49" timestamp="1572963384202"/>
+<typeInfo handle="=abstraction/C:\/Program Files\/Java\/jdk1.8.0_91\/jre\/lib\/rt.jar&lt;java.lang(System.class[System" modifiers="49" timestamp="1572963384202"/>
+</typeInfoHistroy>

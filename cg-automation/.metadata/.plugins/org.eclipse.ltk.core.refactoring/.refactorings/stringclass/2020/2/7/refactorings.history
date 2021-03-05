@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.capgemini.stringclass.package-info.java&apos; to &apos;TestA.java&apos;&#x0D;&#x0A;- Original project: &apos;stringclass&apos;&#x0D;&#x0A;- Original element: &apos;com.capgemini.stringclass.package-info.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.capgemini.stringclass.TestA.java&apos;" description="Rename compilation unit &apos;package-info.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.capgemini.stringclass{package-info.java" name="TestA.java" references="false" stamp="1581423839935" version="1.0"/>
+</session>
